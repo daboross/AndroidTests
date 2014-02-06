@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HelloSpanish</string>
+    <string name="display_text">Hi people, So nice to be here.</string>
+    <string name="landscape_text">All the hay.</string>
+    <string name="submit">Submit</string>
+
+</resources>
